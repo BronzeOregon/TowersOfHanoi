@@ -1,0 +1,3 @@
+C:/Users/dcopp/CLionProjects/SimpleGame/cmake-build-debug/CMakeFiles/SimpleGame.dir
+C:/Users/dcopp/CLionProjects/SimpleGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dcopp/CLionProjects/SimpleGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
